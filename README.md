@@ -5,3 +5,9 @@
 ## Dataset
 
 Набор данных представляет собой реплики персонажа Абатур.
+
+## Final tuned pretrained model
+
+final_save содержит архив с настроенной моделью 
+
+num_train_epochs=2000
