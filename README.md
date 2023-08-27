@@ -11,3 +11,9 @@
 final_save содержит архив с настроенной моделью 
 
 num_train_epochs=2000
+
+##implementation 
+
+Telegram bot
+
+https://github.com/SweetB0nes/rut5_small_chitchat_tg_bot_abatur
